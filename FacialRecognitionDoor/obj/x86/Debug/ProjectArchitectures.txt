@@ -1,0 +1,1 @@
+C:\Users\Tharuka Fernando\Downloads\Facial-Recognition-Door\FacialRecognitionDoor\FacialRecognitionDoor.csproj;x86
